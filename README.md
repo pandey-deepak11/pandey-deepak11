@@ -1,33 +1,90 @@
-
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pandey-deepak11&label=Profile%20views&color=0e75b6&style=flat" alt="pandey-deepak11" /> </p>
+<h3 align="center">🚀 Passionate Frontend Developer from India | 3.7+ Years of Experience</h3>
 
-- 🔭 I’m currently working on [Flipkart Clone](https://flipkart-clone-pandey-deepak-11.netlify.app/)
-
-- 🌱 I’m currently learning **Next.js,Material UI**
-
-- 👯 I’m also developing **My portfolio**
-
-- 💬 Ask me about **React JS**
-
-- 📫 How to reach me **kumard1947.dk@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fMAdz8ZKSFwXmhBlLRygZlKElWrJ0X92/view?usp=sharing](https://drive.google.com/file/d/1fMAdz8ZKSFwXmhBlLRygZlKElWrJ0X92/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pandey-deepak11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pandey-deepak11/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/pandey_deepak11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pandey_deepak11/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Coding" width="400"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/pandey-deepak11">
+    <img src="https://komarev.com/ghpvc/?username=pandey-deepak11&label=Profile%20views&color=0e75b6&style=flat" alt="pandey-deepak11" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandey-deepak11&show_icons=true&locale=en&layout=compact" alt="pandey-deepak11" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandey-deepak11&show_icons=true&locale=en" alt="pandey-deepak11" /></p>
+### 🧑‍💻 About Me
 
+- 🔭 Currently working at **Webexcellis Websolutions Pvt. Ltd.** as a **Frontend Developer**
+- 💻 Tech stack: **React.js, Next.js, Tailwind CSS, Node.js, Express.js**
+- 🌱 Learning: **React Native**, **Serverless Architectures**
+- 💬 Ask me about: **React, Frontend Performance Optimization, Realtime Web Apps**
+- 👨‍💼 Previous Experience: **Cognizant** as Frontend Developer
+- 📫 Email: **kumard1947.dk@gmail.com**
+- 📄 [View my resume](https://drive.google.com/file/d/1fMAdz8ZKSFwXmhBlLRygZlKElWrJ0X92/view?usp=sharing)
 
+---
 
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/pandey-deepak11/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=flat-square)](https://www.instagram.com/pandey_deepak11/)
+
+---
+
+### 💼 Work Experience
+
+**Webexcellis Websolutions Pvt. Ltd. | Frontend Developer**  
+_Kolkata, India • Nov 2022 – Present_
+
+- Migrated legacy React class components to hooks, reducing code complexity by 20%.
+- Implemented **WebSockets** for real-time dashboards and **REST APIs** integration.
+- Collaborated with backend teams using **Express.js + SQL Server**.
+- Improved app performance by 20% through optimizations.
+- Followed Agile + CI/CD best practices.
+
+**Cognizant | Frontend Developer**  
+_Bangalore, India • Nov 2021 – Nov 2022_
+
+- Built front-end UI from scratch with **React, Redux, WebSocket, Jest**.
+- Improved system stability and code quality with extensive code reviews.
+- Enhanced dashboard features, user auth, and download manager functionality.
+
+---
+
+### 🧠 Skills & Technologies
+
+**Languages**: HTML, CSS, JavaScript, TypeScript, Python  
+**Frontend**: ReactJS, NextJS, Redux, Gatsby, TailwindCSS  
+**Backend**: NodeJS, ExpressJS, GraphQL, Mongoose  
+**Database**: MongoDB, MySQL, MariaDB, DynamoDB  
+**DevOps/Tools**: Docker, Kubernetes, Git, JIRA, Postman  
+**Other**: WebSockets, CI/CD, SDLC, Agile, OOPS, System Design
+
+---
+
+### 🚀 Featured Projects
+
+- 🔸 **[Salvex](https://salvex.com)**  
+  Stack: Gatsby, NodeJS, MongoDB, ExpressJS, Socket.IO  
+  Built a high-performance, serverless B2B auction platform with real-time chat, CDN, AWS Lambda, and API Gateway.
+
+- 🔸 **[Shoppe - E-commerce Site](https://shoppee-byblaze.netlify.app/)**  
+  Stack: ReactJS, Redux  
+  Developed a dummy product store with add-to-cart functionality and dark/light themes.
+
+- 🔸 **[Weather App](https://weatherapp-blaze.netlify.app/)**  
+  Stack: JavaScript, HTML, CSS  
+  Built a weather app using OpenWeather API to show accurate local forecasts.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pandey-deepak11&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pandey-deepak11&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
